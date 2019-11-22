@@ -1,0 +1,4 @@
+bmsce@bmsce-Precision-T1700:~/ns-allinone-3.29$ cd netanim
+bash: cd: netanim: No such file or directory
+bmsce@bmsce-Precision-T1700:~/ns-allinone-3.29$ cd netanim-3.108/
+bmsce@bmsce-Precision-T1700:~/ns-allinone-3.29/netanim-3.108$ ./NetAnim
